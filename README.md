@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/Website-Live-brightgreen.svg)](https://archit2501.github.io/resume-shortlisting-tool/)
 
 ## 🌐 Live Website
-**🚀 Experience the tool online:** [https://archit2501.github.io/resume-shortlisting-tool/](https://archit2501.github.io/resume-shortlisting-tool/)
 
 ## Overview
 This project provides an AI-powered tool that analyzes resumes and job descriptions to determine the best fit between candidates and job roles. It uses advanced NLP techniques to compute similarity scores, identify matched skills, and highlight missing qualifications.
@@ -53,29 +52,6 @@ This project provides an AI-powered tool that analyzes resumes and job descripti
 
 ## 🚀 Quick Start
 
-### Option 1: Automated Setup (Recommended)
-```bash
-# Clone the repository
-git clone https://github.com/archit2501/resume-shortlisting-tool.git
-cd resume-shortlisting-tool
-
-# Run automated setup
-python setup.py
-```
-
-### Option 2: Manual Setup
-```bash
-# Install dependencies
-pip install -r requirements.txt
-
-# Download spaCy model
-python -m spacy download en_core_web_sm
-
-# Run the application
-python app.py
-```
-
-Open `http://localhost:5000` in your browser and start analyzing resumes!
 
 ## 💡 Usage Examples
 
@@ -238,17 +214,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Flask** community for web framework
 - **Bootstrap** for responsive UI components
 
-## 📞 Support & Contact
-
-- **🐛 Issues**: [GitHub Issues](https://github.com/archit2501/resume-shortlisting-tool/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/archit2501/resume-shortlisting-tool/discussions)
-- **📧 Email**: architjain2501@gmail.com
-- **💼 LinkedIn**: [Archit Jain](https://linkedin.com/in/architjain01)
-
-## ⭐ Show Your Support
-
-If this project helped you, please give it a ⭐ on GitHub!
-
----
-
-**Made with ❤️ by [Archit Jain](https://github.com/archit2501)**
