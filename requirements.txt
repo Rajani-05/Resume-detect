@@ -9,4 +9,5 @@ pandas==2.1.4
 numpy==1.24.3
 Werkzeug==2.3.7
 gunicorn
-en-core-web-sm
+
+
