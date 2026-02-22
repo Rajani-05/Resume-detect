@@ -11,23 +11,7 @@
 ## Overview
 This project provides an AI-powered tool that analyzes resumes and job descriptions to determine the best fit between candidates and job roles. It uses advanced NLP techniques to compute similarity scores, identify matched skills, and highlight missing qualifications.
 
-## 🎯 Demo & Screenshots
 
-### Main Interface
-![Main Interface](screenshots/main-interface.png)
-*Upload resume and job description to get instant match analysis*
-
-### Match Results
-![Match Results](screenshots/match-results.png)
-*Detailed match score with skills analysis and suggestions*
-
-### Batch Analysis
-![Batch Analysis](screenshots/batch-analysis.png)
-*Process multiple resumes simultaneously with ranking*
-
-### Visualization Dashboard
-![Visualization](screenshots/visualization.png)
-*Interactive charts showing match scores and skill gaps*
 
 > **📁 Add your screenshots to the `screenshots/` folder with these exact names:**
 > - `main-interface.png` - Homepage with upload form
@@ -185,8 +169,6 @@ We welcome contributions! Here's how you can help:
 
 ### Development Setup
 ```bash
-# Clone your fork
-git clone https://github.com/archit2501/resume-shortlisting-tool.git
 
 # Install development dependencies
 pip install -r requirements.txt
@@ -206,11 +188,12 @@ flake8 *.py
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **spaCy** team for excellent NLP library
 - **PyMuPDF** for reliable PDF processing
 - **scikit-learn** for machine learning utilities
 - **Flask** community for web framework
 - **Bootstrap** for responsive UI components
+
 
